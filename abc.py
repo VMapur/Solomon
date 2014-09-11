@@ -1,3 +1,1 @@
-print "Hello, this file was modified by Jerry Chen (cjerry)"
-#########
-#       #
+print ("Mistakes were made, merge the lines")
